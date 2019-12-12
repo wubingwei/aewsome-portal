@@ -16,5 +16,5 @@
 ## program language
 
 ---------------------------------------------------------------
-[Markdown]:https://github.com/wubingwei/aewsome-portal/blob/master/Markdown.md "markdown 语法"
-[ReadMe]:https://github.com/wubingwei/aewsome-portal/blob/master/README-Template.md "github readme 模版"
+[Markdown]:https://github.com/wubingwei/awesome-portal/blob/master/Markdown.md "markdown 语法"
+[ReadMe]:https://github.com/wubingwei/awesome-portal/blob/master/README-Template.md "github readme 模版"
