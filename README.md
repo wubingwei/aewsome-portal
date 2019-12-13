@@ -9,17 +9,17 @@
 
 ## 目录
 * [database](##database)
-* [program language](##program language)
-* [cloud native](##cloud native)
+* [program_language](##program_language)
+* [cloud_native](##cloud_native)
     * [kubernetes](####kubernetes)
     * [Inference](####inference)
 
 ## database
 `mysql入门`: [mysql-tutorial](http://www.mysqltutorial.org/)
 
-## program language
+## program_language
 
-## cloud native
+## cloud_native
 #### kubernetes
 `Kubernetes Deployment`: [故障排除图解指南](https://mp.weixin.qq.com/s/m1YmpQLLhEp1qsvzeBgv4A)
 
